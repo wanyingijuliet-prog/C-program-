@@ -1,7 +1,7 @@
 //Simple c program (Juliet Wanyingi)
 /*
 Name: Juliet
-Reg no:26486
+Reg no:CT101/G/26486/25
 Date:12/9/2025
 Description:Juliet Wanyingi program
 */
